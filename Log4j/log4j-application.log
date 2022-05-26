@@ -1,0 +1,185 @@
+2021-11-20 15:36:52 INFO  log4j:10 - Test is Starting...
+2021-11-20 15:36:57 INFO  log4j:20 - Site acilir
+2021-11-20 15:37:00 INFO  log4j:20 - Bilgisayar kelimesi girilir
+2021-11-20 15:37:02 INFO  log4j:20 - arama sonuclari sayfasinda 2.sayfa acilir
+2021-11-20 15:37:02 INFO  log4j:20 - 2.sayfanın acildigi kontrol edilir
+2021-11-20 15:37:07 INFO  log4j:20 - sonuclara gore bir urun secilir
+2021-11-20 15:37:07 INFO  log4j:20 - secilen urun bilgisi ve tutar bilgisi txt dosyasina yazilir
+2021-11-20 15:37:09 INFO  log4j:20 - secilen urun sepete eklenir
+2021-11-20 15:37:15 INFO  log4j:20 - fiyatlar karsilastirilir
+2021-11-20 15:37:15 INFO  log4j:20 - adet arttırılarak 2 adet urun oldugu dogrulanir
+2021-11-20 15:37:21 INFO  log4j:20 - urunler silinir
+2021-11-20 15:37:21 INFO  log4j:20 - sepetin bos oldugu test edilir
+2021-11-20 15:37:21 INFO  log4j:20 - sayfa kapanir.
+2022-05-25 21:05:20 INFO  log4j:10 - Test is Starting...
+2022-05-25 21:05:30 INFO  log4j:20 - Site acilir
+2022-05-25 21:05:39 INFO  log4j:20 - Bilgisayar kelimesi girilir
+2022-05-25 21:05:46 INFO  log4j:20 - arama sonuclari sayfasinda 2.sayfa acilir
+2022-05-25 21:05:46 INFO  log4j:20 - 2.sayfanın acildigi kontrol edilir
+2022-05-25 21:06:50 INFO  log4j:10 - Test is Starting...
+2022-05-25 21:06:59 INFO  log4j:20 - Site acilir
+2022-05-25 21:07:08 INFO  log4j:20 - Bilgisayar kelimesi girilir
+2022-05-25 21:07:15 INFO  log4j:20 - arama sonuclari sayfasinda 2.sayfa acilir
+2022-05-25 21:07:15 INFO  log4j:20 - 2.sayfanın acildigi kontrol edilir
+2022-05-25 21:11:53 INFO  log4j:10 - Test is Starting...
+2022-05-25 21:12:03 INFO  log4j:20 - Site acilir
+2022-05-25 21:12:12 INFO  log4j:20 - Bilgisayar kelimesi girilir
+2022-05-25 21:12:19 INFO  log4j:20 - arama sonuclari sayfasinda 2.sayfa acilir
+2022-05-25 21:12:19 INFO  log4j:20 - 2.sayfanın acildigi kontrol edilir
+2022-05-25 21:17:15 INFO  log4j:10 - Test is Starting...
+2022-05-25 21:17:23 INFO  log4j:20 - Site acilir
+2022-05-25 21:17:32 INFO  log4j:20 - Bilgisayar kelimesi girilir
+2022-05-25 21:17:39 INFO  log4j:20 - arama sonuclari sayfasinda 2.sayfa acilir
+2022-05-25 21:17:39 INFO  log4j:20 - 2.sayfanın acildigi kontrol edilir
+2022-05-25 21:19:00 INFO  log4j:10 - Test is Starting...
+2022-05-25 21:19:08 INFO  log4j:20 - Site acilir
+2022-05-25 21:19:17 INFO  log4j:20 - Bilgisayar kelimesi girilir
+2022-05-25 21:19:23 INFO  log4j:20 - arama sonuclari sayfasinda 2.sayfa acilir
+2022-05-25 21:19:23 INFO  log4j:20 - 2.sayfanın acildigi kontrol edilir
+2022-05-25 21:25:06 INFO  log4j:8 - *****Test Başladı****
+2022-05-25 21:25:16 INFO  log4j:14 - Gittigidiyor sitesi acilir
+2022-05-25 21:25:25 INFO  log4j:14 - Bilgisayar kelimesi aranir
+2022-05-25 21:25:32 INFO  log4j:14 - 2.sayfa gidilir
+2022-05-25 21:25:32 INFO  log4j:14 - 2.sayfa assert edilir
+2022-05-26 03:50:26 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 03:50:35 INFO  log4j:14 - Gittigidiyor sitesi acilir
+2022-05-26 03:50:45 INFO  log4j:14 - Bilgisayar kelimesi aranir
+2022-05-26 03:50:52 INFO  log4j:14 - 2.sayfa gidilir
+2022-05-26 03:50:52 INFO  log4j:14 - 2.sayfa assert edilir
+2022-05-26 03:52:31 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 03:52:40 INFO  log4j:14 - Gittigidiyor sitesi acilir
+2022-05-26 03:52:52 INFO  log4j:14 - Bilgisayar kelimesi aranir
+2022-05-26 03:52:58 INFO  log4j:14 - 2.sayfa gidilir
+2022-05-26 03:52:58 INFO  log4j:14 - 2.sayfa assert edilir
+2022-05-26 03:53:22 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 03:53:31 INFO  log4j:14 - Gittigidiyor sitesi acilir
+2022-05-26 03:53:39 INFO  log4j:14 - Bilgisayar kelimesi aranir
+2022-05-26 03:53:46 INFO  log4j:14 - 2.sayfa gidilir
+2022-05-26 03:53:47 INFO  log4j:14 - 2.sayfa assert edilir
+2022-05-26 03:58:33 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 03:58:42 INFO  log4j:14 - Gittigidiyor sitesi acilir
+2022-05-26 03:58:59 INFO  log4j:14 - Bilgisayar kelimesi aranir
+2022-05-26 03:59:32 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 03:59:40 INFO  log4j:14 - Gittigidiyor sitesi acilir
+2022-05-26 03:59:50 INFO  log4j:14 - Bilgisayar kelimesi aranir
+2022-05-26 03:59:58 INFO  log4j:14 - 2.sayfa gidilir
+2022-05-26 03:59:58 INFO  log4j:14 - 2.sayfa assert edilir
+2022-05-26 04:00:06 INFO  log4j:14 - rastgle urun secilir
+2022-05-26 04:00:06 INFO  log4j:14 - secilen urun bilgisi ve tutar bilgisi txt dosyasina yazilir
+2022-05-26 04:00:09 INFO  log4j:14 - secilen urun sepete eklenir
+2022-05-26 04:02:51 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 04:02:59 INFO  log4j:14 - Gittigidiyor sitesi acilir
+2022-05-26 04:03:08 INFO  log4j:14 - Bilgisayar kelimesi aranir
+2022-05-26 04:03:16 INFO  log4j:14 - 2.sayfa gidilir
+2022-05-26 04:03:16 INFO  log4j:14 - 2.sayfa assert edilir
+2022-05-26 04:03:23 INFO  log4j:14 - rastgle urun secilir
+2022-05-26 04:03:23 INFO  log4j:14 - secilen urun bilgisi ve tutar bilgisi txt dosyasina yazilir
+2022-05-26 04:03:26 INFO  log4j:14 - secilen urun sepete eklenir
+2022-05-26 04:30:01 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 04:30:09 INFO  log4j:14 - Gittigidiyor sitesi acilir
+2022-05-26 04:30:17 INFO  log4j:14 - Bilgisayar kelimesi aranir
+2022-05-26 04:30:24 INFO  log4j:14 - 2.sayfa gidilir
+2022-05-26 04:30:24 INFO  log4j:14 - 2.sayfa assert edilir
+2022-05-26 04:30:30 INFO  log4j:14 - rastgle urun secilir
+2022-05-26 04:33:03 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 04:33:11 INFO  log4j:14 - Gittigidiyor sitesi acilir
+2022-05-26 04:33:20 INFO  log4j:14 - Bilgisayar kelimesi aranir
+2022-05-26 04:33:26 INFO  log4j:14 - 2.sayfa gidilir
+2022-05-26 04:33:27 INFO  log4j:14 - 2.sayfa assert edilir
+2022-05-26 04:33:33 INFO  log4j:14 - rastgle urun secilir
+2022-05-26 04:34:49 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 04:34:57 INFO  log4j:14 - Gittigidiyor sitesi acilir
+2022-05-26 04:35:08 INFO  log4j:14 - Bilgisayar kelimesi aranir
+2022-05-26 04:35:14 INFO  log4j:14 - 2.sayfa gidilir
+2022-05-26 04:35:14 INFO  log4j:14 - 2.sayfa assert edilir
+2022-05-26 04:35:21 INFO  log4j:14 - rastgle urun secilir
+2022-05-26 04:35:21 INFO  log4j:14 - secilen urun bilgisi ve tutar bilgisi txt dosyasina yazilir
+2022-05-26 04:35:24 INFO  log4j:14 - secilen urun sepete eklenir
+2022-05-26 04:35:30 INFO  log4j:14 - fiyatlar karsilastirilir
+2022-05-26 04:35:30 INFO  log4j:14 - adet arttırılarak 2 adet urun oldugu dogrulanir
+2022-05-26 04:35:36 INFO  log4j:14 - urunler silinir
+2022-05-26 04:35:36 INFO  log4j:14 - sepetin bos oldugu test edilir
+2022-05-26 04:35:37 INFO  log4j:14 - sayfa kapanir.
+2022-05-26 04:53:13 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 04:53:21 INFO  log4j:15 - Gittigidiyor sitesi acilir
+2022-05-26 04:53:30 INFO  log4j:15 - Bilgisayar kelimesi aranir
+2022-05-26 04:53:37 INFO  log4j:15 - 2.sayfa gidilir
+2022-05-26 04:53:37 INFO  log4j:15 - 2.sayfa assert edilir
+2022-05-26 04:53:45 INFO  log4j:15 - rastgle urun secilir
+2022-05-26 04:53:45 INFO  log4j:15 - secilen urun ve fiyatı txt dosyasina yazdirilir
+2022-05-26 04:53:47 INFO  log4j:15 - Urun sepete eklenir
+2022-05-26 04:55:10 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 04:55:18 INFO  log4j:15 - Gittigidiyor sitesi acilir
+2022-05-26 04:55:28 INFO  log4j:15 - Bilgisayar kelimesi aranir
+2022-05-26 04:55:34 INFO  log4j:15 - 2.sayfa gidilir
+2022-05-26 04:55:35 INFO  log4j:15 - 2.sayfa assert edilir
+2022-05-26 04:55:42 INFO  log4j:15 - rastgle urun secilir
+2022-05-26 04:55:42 INFO  log4j:15 - secilen urun ve fiyatı txt dosyasina yazdirilir
+2022-05-26 04:55:44 INFO  log4j:15 - Urun sepete eklenir
+2022-05-26 04:58:18 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 04:58:26 INFO  log4j:15 - Gittigidiyor sitesi acilir
+2022-05-26 04:58:36 INFO  log4j:15 - Bilgisayar kelimesi aranir
+2022-05-26 04:58:43 INFO  log4j:15 - 2.sayfa gidilir
+2022-05-26 04:58:43 INFO  log4j:15 - 2.sayfa assert edilir
+2022-05-26 04:58:50 INFO  log4j:15 - rastgle urun secilir
+2022-05-26 04:58:50 INFO  log4j:15 - secilen urun ve fiyatı txt dosyasina yazdirilir
+2022-05-26 04:58:53 INFO  log4j:15 - Urun sepete eklenir
+2022-05-26 05:03:22 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 05:03:30 INFO  log4j:15 - Gittigidiyor sitesi acilir
+2022-05-26 05:03:39 INFO  log4j:15 - Bilgisayar kelimesi aranir
+2022-05-26 05:03:45 INFO  log4j:15 - 2.sayfa gidilir
+2022-05-26 05:03:45 INFO  log4j:15 - 2.sayfa assert edilir
+2022-05-26 05:03:52 INFO  log4j:15 - rastgle urun secilir
+2022-05-26 05:04:46 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 05:04:55 INFO  log4j:15 - Gittigidiyor sitesi acilir
+2022-05-26 05:05:14 INFO  log4j:15 - Bilgisayar kelimesi aranir
+2022-05-26 05:05:20 INFO  log4j:15 - 2.sayfa gidilir
+2022-05-26 05:05:20 INFO  log4j:15 - 2.sayfa assert edilir
+2022-05-26 05:09:12 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 05:09:21 INFO  log4j:15 - Gittigidiyor sitesi acilir
+2022-05-26 05:09:30 INFO  log4j:15 - Bilgisayar kelimesi aranir
+2022-05-26 05:12:39 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 05:12:47 INFO  log4j:15 - Gittigidiyor sitesi acilir
+2022-05-26 05:12:57 INFO  log4j:15 - Bilgisayar kelimesi aranir
+2022-05-26 05:13:04 INFO  log4j:15 - 2.sayfa gidilir
+2022-05-26 05:13:05 INFO  log4j:15 - 2.sayfa assert edilir
+2022-05-26 05:16:30 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 05:16:39 INFO  log4j:15 - Gittigidiyor sitesi acilir
+2022-05-26 05:16:50 INFO  log4j:15 - Bilgisayar kelimesi aranir
+2022-05-26 05:16:58 INFO  log4j:15 - 2.sayfa gidilir
+2022-05-26 05:16:58 INFO  log4j:15 - 2.sayfa assert edilir
+2022-05-26 05:17:05 INFO  log4j:15 - rastgle urun secilir
+2022-05-26 05:18:18 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 05:18:28 INFO  log4j:15 - Gittigidiyor sitesi acilir
+2022-05-26 05:18:37 INFO  log4j:15 - Bilgisayar kelimesi aranir
+2022-05-26 05:18:45 INFO  log4j:15 - 2.sayfa gidilir
+2022-05-26 05:18:45 INFO  log4j:15 - 2.sayfa assert edilir
+2022-05-26 05:18:52 INFO  log4j:15 - rastgle urun secilir
+2022-05-26 05:21:25 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 05:21:33 INFO  log4j:15 - Gittigidiyor sitesi acilir
+2022-05-26 05:21:42 INFO  log4j:15 - Bilgisayar kelimesi aranir
+2022-05-26 05:21:48 INFO  log4j:15 - 2.sayfa gidilir
+2022-05-26 05:21:48 INFO  log4j:15 - 2.sayfa assert edilir
+2022-05-26 05:21:55 INFO  log4j:15 - rastgle urun secilir
+2022-05-26 05:23:18 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 05:23:26 INFO  log4j:15 - Gittigidiyor sitesi acilir
+2022-05-26 05:23:35 INFO  log4j:15 - Bilgisayar kelimesi aranir
+2022-05-26 05:23:41 INFO  log4j:15 - 2.sayfa gidilir
+2022-05-26 05:23:41 INFO  log4j:15 - 2.sayfa assert edilir
+2022-05-26 05:23:48 INFO  log4j:15 - rastgle urun secilir
+2022-05-26 05:27:03 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 05:27:11 INFO  log4j:15 - Gittigidiyor sitesi acilir
+2022-05-26 05:27:20 INFO  log4j:15 - Bilgisayar kelimesi aranir
+2022-05-26 05:27:26 INFO  log4j:15 - 2.sayfa gidilir
+2022-05-26 05:27:26 INFO  log4j:15 - 2.sayfa assert edilir
+2022-05-26 05:27:33 INFO  log4j:15 - rastgle urun secilir
+2022-05-26 05:27:36 INFO  log4j:15 - secilen urun ve fiyatı txt dosyasina yazdirilir
+2022-05-26 05:27:39 INFO  log4j:15 - Urun sepete eklenir
+2022-05-26 05:27:45 INFO  log4j:15 - sepetteki fiyat ile urun fiyatı karsilastirilir
+2022-05-26 05:27:45 INFO  log4j:15 - iki adet ürün olduğu assert edilir
+2022-05-26 05:27:50 INFO  log4j:15 - epetteki ürünler silinir
+2022-05-26 05:27:51 INFO  log4j:15 - sepetin bos oldugu assert edilir
+2022-05-26 05:27:51 INFO  log4j:15 - Sayfa Kapanir.
+2022-05-26 05:27:51 INFO  log4j:12 - ****Test Bitti****
+2022-05-26 05:30:51 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 05:30:57 INFO  log4j:15 - Gittigidiyor sitesi acilir
