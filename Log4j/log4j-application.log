@@ -183,3 +183,29 @@
 2022-05-26 05:27:51 INFO  log4j:12 - ****Test Bitti****
 2022-05-26 05:30:51 INFO  log4j:8 - *****Test Başladı****
 2022-05-26 05:30:57 INFO  log4j:15 - Gittigidiyor sitesi acilir
+2022-05-26 10:18:19 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 10:18:32 INFO  log4j:15 - Gittigidiyor sitesi acilir
+2022-05-26 10:18:45 INFO  log4j:15 - Bilgisayar kelimesi aranir
+2022-05-26 10:18:53 INFO  log4j:15 - 2.sayfa gidilir
+2022-05-26 10:18:54 INFO  log4j:15 - 2.sayfa assert edilir
+2022-05-26 10:19:03 INFO  log4j:15 - rastgle urun secilir
+2022-05-26 10:21:21 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 10:21:33 INFO  log4j:15 - Gittigidiyor sitesi acilir
+2022-05-26 10:21:50 INFO  log4j:15 - Bilgisayar kelimesi aranir
+2022-05-26 10:21:58 INFO  log4j:15 - 2.sayfa gidilir
+2022-05-26 10:21:58 INFO  log4j:15 - 2.sayfa assert edilir
+2022-05-26 10:22:07 INFO  log4j:15 - rastgle urun secilir
+2022-05-26 10:28:00 INFO  log4j:8 - *****Test Başladı****
+2022-05-26 10:28:14 INFO  log4j:15 - Gittigidiyor sitesi acilir
+2022-05-26 10:28:30 INFO  log4j:15 - Bilgisayar kelimesi aranir
+2022-05-26 10:28:40 INFO  log4j:15 - 2.sayfa gidilir
+2022-05-26 10:28:40 INFO  log4j:15 - 2.sayfa assert edilir
+2022-05-26 10:28:49 INFO  log4j:15 - rastgle urun secilir
+2022-05-26 10:28:53 INFO  log4j:15 - secilen urun ve fiyatı txt dosyasina yazdirilir
+2022-05-26 10:28:55 INFO  log4j:15 - Urun sepete eklenir
+2022-05-26 10:29:02 INFO  log4j:15 - sepetteki fiyat ile urun fiyatı karsilastirilir
+2022-05-26 10:29:02 INFO  log4j:15 - iki adet ürün olduğu assert edilir
+2022-05-26 10:29:07 INFO  log4j:15 - epetteki ürünler silinir
+2022-05-26 10:29:07 INFO  log4j:15 - sepetin bos oldugu assert edilir
+2022-05-26 10:29:10 INFO  log4j:15 - Sayfa Kapanir.
+2022-05-26 10:29:10 INFO  log4j:12 - ****Test Bitti****

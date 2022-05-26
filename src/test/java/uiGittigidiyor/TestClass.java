@@ -48,7 +48,7 @@ public class TestClass {
         pages.cookiesIki.click();
         log4j.info("rastgle urun secilir");
 
-        File file = new File("src/test/java/gittiGidiyor/secilenUrun.txt");
+        File file = new File("src/test/java/uiGittigidiyor/secilenUrun.txt");
         FileWriter fileWriter = new FileWriter(file);
 
         String urunBilgisiText = pages.urunBilgisi.getText();

@@ -19,6 +19,8 @@ Feature: Trello_testi
   Scenario: 2.Card olusturma
     Given kart olusturma 2 "furkanKarti2"
 
+    Scenario: Card update
+      Given rastgele bir karti update
 
   Scenario: 1.Karti Silmek
     Given bir karti sil

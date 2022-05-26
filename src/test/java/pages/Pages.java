@@ -30,7 +30,7 @@ public class Pages {
     @FindBy (id = "sp-title")
     public WebElement urunBilgisi;
 
-    @FindBy (xpath = "(//div[@class='lowPrice                                                            lastPrice'])[1]")
+    @FindBy (xpath = "(//div[@id='sp-price-container']/div/span)[1]")
     public WebElement urunFiyati;
 
     @FindBy (id = "add-to-basket")
